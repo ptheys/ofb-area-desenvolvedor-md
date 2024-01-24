@@ -1,0 +1,14 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17372053)
+
+- [v1.0.0 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v1.0.0%20-%20Contas/index)
+- [v1.0.1 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v1.0.1%20-%20Contas/index)
+- [v1.0.2 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v1.0.2%20-%20Contas/index)
+- [v1.0.3 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v1.0.3%20-%20Contas/index)
+- [v2.0.0 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.0.0%20-%20Contas/index)
+- [v2.1.0-rc.1 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.1.0-rc.1%20-%20Contas/index)
+- [v2.1.0-rc.2 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.1.0-rc.2%20-%20Contas/index)
+- [v2.1.0-rc.3 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.1.0-rc.3%20-%20Contas/index)
+- [v2.0.1 - Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.0.1%20-%20Contas/index)
+- [v2.1.1 - \[DC\] Contas](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Contas/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Contas/v2.1.1%20-%20[DC]%20Contas/index)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17372053)

@@ -1,0 +1,7 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/267059402)
+
+- [Informações Gerais - \[DA\] Adiantamento a Depositantes - v1.0.0-rc.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20Adiantamento%20a%20Depositantes/v1.0.0-rc.1%20-%20[DA]%20Adiantamento%20a%20Depositantes/Informa%c3%a7%c3%b5es%20Gerais%20-%20[DA]%20Adiantamento%20a%20Depositantes%20-%20v1.0.0-rc.1)
+- [Informações Técnicas - \[DA\] Adiantamento a Depositantes - v1.0.0-rc.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20Adiantamento%20a%20Depositantes/v1.0.0-rc.1%20-%20[DA]%20Adiantamento%20a%20Depositantes/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20[DA]%20Adiantamento%20a%20Depositantes%20-%20v1.0.0-rc.1)
+- [Changelog - \[DA\] Adiantamento a Depositantes - v1.0.0-rc.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20Adiantamento%20a%20Depositantes/v1.0.0-rc.1%20-%20[DA]%20Adiantamento%20a%20Depositantes/Changelog%20-%20[DA]%20Adiantamento%20a%20Depositantes%20-%20v1.0.0-rc.1)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/267059402)

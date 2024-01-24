@@ -1,0 +1,6 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/168296469)
+
+- [Máquina de estados - v1.0.0 - Vínculo de dispositivo](../../../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/[SV]%20API%20-%20Pagamentos%20sem%20Redirecionamento/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[SV]%20Pagamento%20sem%20Redirecionamento/v1.0.0%20-%20V%c3%adnculo%20de%20dispositivo/Informa%c3%a7%c3%b5es%20Gerais%20-%20V%c3%adnculo%20de%20dispositivo%20-%20v1.0.0/M%c3%a1quina%20de%20estados%20-%20v1.0.0%20-%20V%c3%adnculo%20de%20dispositivo)
+- [Diagrama de Sequência - v1.0.0 - Vínculo de dispositivo](../../../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/[SV]%20API%20-%20Pagamentos%20sem%20Redirecionamento/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[SV]%20Pagamento%20sem%20Redirecionamento/v1.0.0%20-%20V%c3%adnculo%20de%20dispositivo/Informa%c3%a7%c3%b5es%20Gerais%20-%20V%c3%adnculo%20de%20dispositivo%20-%20v1.0.0/Diagrama%20de%20Sequ%c3%aancia%20-%20v1.0.0%20-%20V%c3%adnculo%20de%20dispositivo)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/168296469)

@@ -1,0 +1,7 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/138608719)
+
+- [Informações Gerais - Títulos de Capitalização - v1.0.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/v1.0.1%20-%20[DA]%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/Informa%c3%a7%c3%b5es%20Gerais%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o%20-%20v1.0.1)
+- [Informações Técnicas - Títulos de Capitalização - v1.0.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/v1.0.1%20-%20[DA]%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o%20-%20v1.0.1)
+- [Changelog - Títulos de Capitalização - v1.0.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20Abertos%20-%20DA/[DA]%20API%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/v1.0.1%20-%20[DA]%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o/Changelog%20-%20T%c3%adtulos%20de%20Capitaliza%c3%a7%c3%a3o%20-%20v1.0.1)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/138608719)

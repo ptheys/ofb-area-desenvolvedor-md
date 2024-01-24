@@ -1,0 +1,7 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/242254157)
+
+- [Informações Gerais - API Comum (Discovery) - v2.0.0-beta.2](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Relat%c3%b3rios%20e%20M%c3%a9tricas/API%20Comum%20%28Discovery%29/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20API%20Comum/v2.0.0-beta.2%20-%20API%20Comum%20%28Discovery%29/Informa%c3%a7%c3%b5es%20Gerais%20-%20API%20Comum%20%28Discovery%29%20-%20v2.0.0-beta.2)
+- [Informações Técnicas - API Comum (Discovery) -  v2.0.0-beta.2](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Relat%c3%b3rios%20e%20M%c3%a9tricas/API%20Comum%20%28Discovery%29/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20API%20Comum/v2.0.0-beta.2%20-%20API%20Comum%20%28Discovery%29/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20API%20Comum%20%28Discovery%29%20-%20%20v2.0.0-beta.2)
+- [Changelog - Comum (Discovery) - v2.0.0-beta.2](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Relat%c3%b3rios%20e%20M%c3%a9tricas/API%20Comum%20%28Discovery%29/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20API%20Comum/v2.0.0-beta.2%20-%20API%20Comum%20%28Discovery%29/Changelog%20-%20Comum%20%28Discovery%29%20-%20v2.0.0-beta.2)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/242254157)

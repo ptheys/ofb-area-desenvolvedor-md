@@ -1,0 +1,467 @@
+    
+    
+<!DOCTYPE html><html><head>
+    <!-- START-PRELOAD-TAGS -->
+<!-- CLASSIC-master-20957 -->
+<script>!function(){if('PerformanceLongTaskTiming' in window){var g=window.__tti={e:[]};g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});g.o.observe({entryTypes:['longtask']})}}();</script>
+<script>window.__buildInfo={"FRONTEND_VERSION":"CLASSIC-master-20957","BUILD_DATE":1705942587913,"EDITOR_VERSION":"191.1.0","RENDERER_VERSION":"109.2.2","PUBLIC_PATH":"https://confluence-v1.prod.atl-paas.net/master/"};</script>
+<script>(function(w,d){var e=!1;try{e=d.cookie.includes("cc.domain.sharding")}catch{}if(!e)return;var g=function(u,j){var i=u.indexOf(".");return u.slice(0,i)+"-"+j+u.slice(i)};var pp=w.__buildInfo&&w.__buildInfo.PUBLIC_PATH;if(pp){var u=pp.match(/\/\/(.*?)\//)[1];Array(5).fill(0).forEach(function(_,i){var t=d.createElement("link");t.rel="preconnect";t.href=g(u,i);d.head.appendChild(t);})};w.__GET_CC_ASSET_URL=function(p,f){try{var h=f.split("").reduce((a,b)=>{a=((a<<5)-a)+b.charCodeAt(0);return a&a},0)%5;if(h<0)h+=5;return g(p+f,h);}catch{return g+f}}})(window,document)</script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/query-preloader.y1ALbgM6p2.js" crossorigin></script>
+<script defer src="https://confluence-v1.prod.atl-paas.net/master/vendors/3.6.1-conf-custom-m03.js" data-wrm-external data-initially-rendered data-wrm-batch-type="resource" data-wrm-key="com.atlassian.plugins.jquery:jquery"></script><script defer src="https://confluence-v1.prod.atl-paas.net/master/vendors/3.4.0-migrate-conf-custom.js" data-wrm-external data-initially-rendered data-wrm-batch-type="resource" data-wrm-key="com.atlassian.plugins.jquery:jquery-migrate"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/runtime.5nKwnqqHct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/compiled-css.C9Nz_WGe3g.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/atl.3YrkvhFS8G.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/stable_vendors.zaa_QZp4bV.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/vendors.LUyD3_ydQX.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/vpCache.dOO7gUgNZT.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/standalone-navigation.hTIULTwwaB.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/77249.9tlPC0la7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/80060.9Xldy5B90c.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/77249.9tlPC0la7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/48251.ouDNq3m1H1.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/71293.jgEXFh7VWI.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/44519.2MDGkw6MoA.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/67362.sUNEXJ4dVa.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4239.4NCpRjhJD_.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/27508.4B3z7rYeAx.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/68196.1pOYDP34vR.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/61761.bsVhi2ekju.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/21576.WJenr0yJIw.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51751.Gvcsp6BZ7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17167.dfi7aMpcpJ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4239.4NCpRjhJD_.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/65088.c8mSwNzfcd.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/34614.BXeVExLZa2.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/88778.3Nzfn0UmFR.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36395.Cjvdtnx2Vd.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/46570.PjbUD6ZpeX.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17346.ELwhiHZRPN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17346.ELwhiHZRPN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17346.ELwhiHZRPN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17346.ELwhiHZRPN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/84592.CE2D28d0cy.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/33963.Eremb5xg5O.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36438.6P-PrkpvS7.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51927.zAOjQDChVh.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/33963.Eremb5xg5O.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36438.6P-PrkpvS7.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/33963.Eremb5xg5O.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/87828.WWez0ntB11.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/3695.vkdCQr5bi_.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51927.zAOjQDChVh.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/88756.b5BhKoPidX.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/15916._ytGEEdUr-.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/15916._ytGEEdUr-.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/15916._ytGEEdUr-.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51751.Gvcsp6BZ7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51751.Gvcsp6BZ7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17167.dfi7aMpcpJ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4239.4NCpRjhJD_.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/29453.AslaxzY-Tz.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/68643.Ui0iexk-Jq.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/92686.4cL1CzZDFC.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/83142.5PqnmTog48.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/53727.sB5H_bbvVi.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/53727.sB5H_bbvVi.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/93717.wGqgOpFj5I.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/34415.xPWmvdPgPS.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/34415.xPWmvdPgPS.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/874.SxXbKVkdXn.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4113.D2H84GAuFO.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4113.D2H84GAuFO.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/43544.Py_LLW4Kwq.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/43544.Py_LLW4Kwq.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/69311.oaj0Lgoqdu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36243.CwWPizFmKZ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36243.CwWPizFmKZ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/93336.kwG6fA3IXZ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/60172.bua4sWvCct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/60172.bua4sWvCct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/60172.bua4sWvCct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/60172.bua4sWvCct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/60172.bua4sWvCct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/10773.UsL14wzEXz.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30293.Lb9sy_zjtu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30293.Lb9sy_zjtu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30293.Lb9sy_zjtu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30293.Lb9sy_zjtu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30293.Lb9sy_zjtu.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/20330.DJOQsSSpi5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11061.BjQH6upRS9.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/32526.CRff2qufB1.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30654.HKTNUTRVp0.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30654.HKTNUTRVp0.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/30654.HKTNUTRVp0.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/52820.VFWE9S-9No.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/52820.VFWE9S-9No.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/94919.NUb-U9Snna.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/85048.xJsSeVD3NH.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/14248.LMCR6ttp6c.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/21488.thf2D2rGh7.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/84185.d5-zQSYGc1.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/24462.wG1kuefpMN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/35805.2i1snME_yL.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51751.Gvcsp6BZ7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/51751.Gvcsp6BZ7U.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17167.dfi7aMpcpJ.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/83505.OmRl9tsuiW.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/71831.J77iLEJQZN.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/35824.n1zkJ2D1JK.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/39159.W1C1iy3HE4.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/4519.X9IqECaAKc.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/64351.VwoZ2ynXyl.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/6559.TGtcb6K48g.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/35824.n1zkJ2D1JK.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/39159.W1C1iy3HE4.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/16343.aphD-nNako.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/89905.HqZaZYs4WO.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/35824.n1zkJ2D1JK.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/39159.W1C1iy3HE4.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/16343.aphD-nNako.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/65799.D0ZCCiUV4j.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/45655.ObzFV3hp2E.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/1952.1LvBWJAK7Z.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/43284.JO9dJTMArD.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/13748.-5SF1rjtCw.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/91354.5sMQWUuhJe.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/70031.YIQSQLpnTm.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/81981.eL2ScR9lRm.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/62154.GjrohdYmlI.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/81712.DF7q1e5pFg.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/62807.v9df2PMTQ5.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/13623.uEtJQOgafa.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/5354.O-Ssfxw7y4.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/69394.rkRc0UJAXF.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/13506.Z1cbkRe8du.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/13362.n8C0ppApWy.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/37152.ogAh_JCX-W.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/83909.aRJ-Qk_y7E.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/17163.vqhMrHFzdT.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/6808.uQxT1T55Zk.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/11168.VsS3nsCTmH.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/36389.BYDYPGVCIc.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/13831.SO6U-jisrc.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/21571.4F7h4z5FGw.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/42699.jjR2Yg5l70.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/41632.TvIxb_8Hjg.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/8665.Pw-ocPR2Hl.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/40023.8ImepcQTG2.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/67118.Atx7dEr3Eu.js" crossorigin></script>
+<script defer nomodule src="https://confluence-v1.prod.atl-paas.net/master/browser-not-supported.e3cdbfd226a11b8df55d0119b603cbe1.js" crossorigin></script>
+<meta name="referrer" content="origin">
+<!-- START-COMPILED-STYLES -->
+<script>window.performance.mark("wf/css/compiled.start");</script>
+<link rel="stylesheet" href="https://confluence-v1.prod.atl-paas.net/master/compiled-css.UkMpuKDYRI.css" />
+<script>window.performance.mark("wf/css/compiled.end");</script>
+<!-- END-COMPILED-STYLES -->
+<!-- END-PRELOAD-TAGS -->
+                                <title>Arquivo anexado não encontrado - Open Finance Brasil - Área do Desenvolvedor</title>
+            
+        
+        
+
+                        
+    
+                        
+    
+
+                
+    
+        
+
+    
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="/wiki">
+<meta id="confluence-base-url" name="confluence-base-url" content="https://openfinancebrasil.atlassian.net/wiki">
+
+<meta id="atlassian-token" name="atlassian-token" content="029f9e3872341ed779997b844f4a37e2d76cdbdd">
+
+<script type="text/javascript">
+        var contextPath = '/wiki';
+</script>
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="noarchive">
+    <meta name="confluence-request-time" content="1705978385919">
+        
+    
+        
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-discovered-plugin-features" content="{}">
+            <meta name="ajs-keyboardshortcut-hash" content="92a0acc5ffc0ccd474f50b6dfce7e480">
+            <meta id="team-calendars-has-jira-link" content="true">
+            <meta name="ajs-team-calendars-display-time-format" content="displayTimeFormat12">
+            <meta id="team-calendars-display-week-number" content="false">
+            <meta id="team-calendars-user-timezone" content="UTC">
+            <script type="text/x-template" id="team-calendars-messages" title="team-calendars-messages"><fieldset class="i18n hidden"><input type="hidden" name="calendar3.month.long.july" value="julho"><input type="hidden" name="calendar3.day.short.wednesday" value="qua."><input type="hidden" name="calendar3.day.short.thursday" value="qui."><input type="hidden" name="calendar3.month.short.march" value="mar."><input type="hidden" name="calendar3.month.long.april" value="abril"><input type="hidden" name="calendar3.month.long.october" value="outubro"><input type="hidden" name="calendar3.month.long.august" value="agosto"><input type="hidden" name="calendar3.month.short.july" value="jul."><input type="hidden" name="calendar3.month.short.may" value="mai."><input type="hidden" name="calendar3.month.short.november" value="nov."><input type="hidden" name="calendar3.day.long.friday" value="sexta-feira"><input type="hidden" name="calendar3.day.long.sunday" value="domingo"><input type="hidden" name="calendar3.day.long.saturday" value="sábado"><input type="hidden" name="calendar3.month.short.april" value="abr."><input type="hidden" name="calendar3.day.long.wednesday" value="quarta-feira"><input type="hidden" name="calendar3.month.long.december" value="dezembro"><input type="hidden" name="calendar3.month.short.october" value="out."><input type="hidden" name="calendar3.day.long.monday" value="segunda-feira"><input type="hidden" name="calendar3.month.short.june" value="jun."><input type="hidden" name="calendar3.day.short.monday" value="seg."><input type="hidden" name="calendar3.day.short.tuesday" value="ter."><input type="hidden" name="calendar3.day.short.saturday" value="sáb."><input type="hidden" name="calendar3.month.long.march" value="março"><input type="hidden" name="calendar3.month.long.june" value="junho"><input type="hidden" name="calendar3.month.short.february" value="fev."><input type="hidden" name="calendar3.month.short.august" value="ago."><input type="hidden" name="calendar3.month.short.december" value="dez."><input type="hidden" name="calendar3.day.short.sunday" value="dom."><input type="hidden" name="calendar3.month.long.february" value="fevereiro"><input type="hidden" name="calendar3.day.long.tuesday" value="terça-feira"><input type="hidden" name="calendar3.month.long.may" value="maio"><input type="hidden" name="calendar3.month.long.september" value="setembro"><input type="hidden" name="calendar3.month.long.november" value="novembro"><input type="hidden" name="calendar3.month.short.january" value="jan."><input type="hidden" name="calendar3.month.short.september" value="set."><input type="hidden" name="calendar3.day.long.thursday" value="quinta-feira"><input type="hidden" name="calendar3.month.long.january" value="janeiro"><input type="hidden" name="calendar3.day.short.friday" value="sex."></fieldset></script>
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="60000">
+            <meta name="ajs-date.format" content="dd/MM/YYYY">
+
+    
+            <meta name="ajs-cloud-id" content="833a5b89-ffad-428e-9374-e8478ba01f4a">
+            <meta name="ajs-context-path" content="/wiki">
+            <meta name="ajs-base-url" content="https://openfinancebrasil.atlassian.net/wiki">
+            <meta name="ajs-version-number" content="1000.0.0-3cc7b53ebd97">
+            <meta name="ajs-build-number" content="6452">
+            <meta name="ajs-remote-user" content="">
+            <meta name="ajs-remote-user-key" content="">
+            <meta name="ajs-atlassian-account-id" content="">
+            <meta name="ajs-remote-user-has-licensed-access" content="false">
+            <meta name="ajs-current-user-fullname" content="">
+            <meta name="ajs-current-user-avatar-url" content="">
+            <meta name="ajs-current-user-avatar-uri-reference" content="/wiki/s/-1764818558/6452/3cc7b53ebd97249553d85d64e678a92d2bb54f46/_/images/icons/profilepics/anonymous.png">
+            <meta name="ajs-static-resource-url-prefix" content="/wiki/s/-1764818558/6452/3cc7b53ebd97249553d85d64e678a92d2bb54f46/_">
+            <meta name="ajs-global-settings-attachment-max-size" content="104857600">
+            <meta name="ajs-user-locale" content="pt_BR">
+            <meta name="ajs-enabled-dark-features" content="fabric.editor.satisfaction.survey,fabric.editor.blank.page,connect.js.dialog.idfilter,com.atlassian.connect.acjs.onecloud-1272-clear-macro-parameters-on-custom-editor-close,analytics.smoke,react.ui.graph.sha256,hipaa.enable.email.notification,adg3.feature.flag.analytics,improving.performance.loading.image.previews,hipaa.enable.push.notification,header.with.contributors,user.preferences.attachment.emails,space.soft.deletion,search.terms.ugc.sending,frontend.cookie.controls.legacy,emcee-discover,frontend.ecosystem.dark.mode.text-and-table.legacy.editor,skip.drop.codepath.in.attachment.plugin,tinymce.recovery,frontend.ecosystem.dark.mode.legacy.text.class.fix,jira.fix-issue-links,macro.fix-get-macro-body,mobile.onboarding,com.atlassian.connect.acjs.oc-2363-content-property-ap-request,user.preferences.digest.page.create.update.emails,user.preferences.email.settings.redesign,adg3.flat.pagetree,frontend.page.ownership,frontend.public.links.product.space.admins.email.settings,enable.admin.editor.fullwidth,jim.async.fetch,frontend.roadmap.planner.macro.incremental.save,gdpr.space.permissions.user.picker,locale.from.prs,timezone.from.prs,prevent.repeated.dnd.inits,engage-platform.engagekit,synchrony.user-info-bulk-api,jira.issue.macro.switch.no.cancel,frontend.revert.page-migrated.reload.tinymce,adg3.flags,create-page-dialog.allow-parent-page,clc.quick.create,confluence.view.edit.transition,cql.search.screen,confluence-inline-comments-resolved,jim.async.vertigo,react.ui.graph,confluence.efi.onboarding.new.templates,rotp.admin.shortcuts,filestore.thumbnail,fabric.mentions,pdf-preview,filestore.direct.download,adg3.no.auto.optout.global.colourscheme,sidebar.deferred,previews.sharing,previews.versions,file-annotations,collaborative-audit-log,frontend.editor.plugins,atlassian.aui.raphael.disabled,previews.conversion-service,editor.ajax.save,app-switcher.new,confluence.sidebar.deferred,previews.trigger-all-file-types,connect.no-applinks,confluence.mobile.ios.smartbanner,confluence.table.resizable,notification.batch,mention.service.userbase.sync.enabled,previews.sharing.pushstate,confluence-inline-comments-rich-editor,fusion.bitbucket.rebrand,unified.permissions,confluence.non.polling.index.flush,file-annotations.likes,rotp.project.shortcuts,confluence.pagenav.deferred,com.atlassian.growth.shakuni.disabled,filestore.direct.upload,confluence-inline-comments,confluence-inline-comments-dangling-comment,quick-reload-inline-comments-flags,jquery.feature.detection.cache">
+            <meta name="ajs-atl-token" content="029f9e3872341ed779997b844f4a37e2d76cdbdd">
+            <meta name="ajs-confluence-flavour" content="ALACARTE">
+            <meta name="ajs-user-date-pattern" content="d &#39;de&#39; MMM &#39;de&#39; y">
+            <meta name="ajs-iframe-allowed-for-spa" content="false">
+            <meta name="ajs-content-only" content="false">
+            <meta name="ajs-edition" content="PREMIUM">
+    
+        <link rel="shortcut icon" href="/wiki/s/-1764818558/6452/3cc7b53ebd97249553d85d64e678a92d2bb54f46/22/_/favicon-update.ico">
+    <link rel="icon" type="image/x-icon" href="/wiki/s/-1764818558/6452/3cc7b53ebd97249553d85d64e678a92d2bb54f46/22/_/favicon-update.ico">
+
+    
+<!-- START-FRAGMENT fallback-mode-jquery3.html -->
+<!-- CLASSIC-master-20957 -->
+<script>window.__buildInfo={"FRONTEND_VERSION":"CLASSIC-master-20957","BUILD_DATE":1705942587913,"EDITOR_VERSION":"191.1.0","RENDERER_VERSION":"109.2.2","PUBLIC_PATH":"https://confluence-v1.prod.atl-paas.net/master/"};</script>
+<script defer src="https://confluence-v1.prod.atl-paas.net/master/vendors/3.6.1-conf-custom-m03.js" data-wrm-external data-initially-rendered data-wrm-batch-type="resource" data-wrm-key="com.atlassian.plugins.jquery:jquery"></script><script defer src="https://confluence-v1.prod.atl-paas.net/master/vendors/3.4.0-migrate-conf-custom.js" data-wrm-external data-initially-rendered data-wrm-batch-type="resource" data-wrm-key="com.atlassian.plugins.jquery:jquery-migrate"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/runtime.5nKwnqqHct.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/stable_vendors.zaa_QZp4bV.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/vendors.LUyD3_ydQX.js" crossorigin></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/fallback-mode.78eReFB6Fb.js" crossorigin></script>
+<!-- START-COMPILED-STYLES -->
+<script>window.performance.mark("wf/css/compiled.start");</script>
+<link rel="stylesheet" href="https://confluence-v1.prod.atl-paas.net/master/compiled-css.UkMpuKDYRI.css" />
+<script>window.performance.mark("wf/css/compiled.end");</script>
+<!-- END-COMPILED-STYLES -->
+<!-- END-FRAGMENT fallback-mode-jquery3.html -->
+
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch/osd.action" title="Open Finance Brasil - Área do Desenvolvedor"/>
+
+    <!-- Styles -->
+            <script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\"/wiki\"";
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-rest:curl.cross-origin-resources"]="false";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:icons-css-resources.iconsCssData"]="{\"com.automation-consultants.accloud.approvalmacro\":[\"approval-space-page-cc\",\"approval-help-center-page-cc\"],\"de.resolution.cloud.analytics.google\":[\"spaceContent\"],\"com.addonengine.analytics\":[\"space-analytics\"]}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:blueprint-css-resources.iconsCssData"]="{}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:dialog-options.data"]="{\"dialogOptions\":{\"com.appanvil.aura.designer__karma-enhance-button\":{\"height\":\"100%\",\"chrome\":false,\"width\":\"100%\"}},\"inlineDialogOptions\":{\"de.resolution.cloud.analytics.google__page-popup-button\":{\"closeOthers\":true},\"com.automation-consultants.accloud.approvalmacro__approval-byline\":{\"width\":\"350px\"}},\"dialogModules\":{\"com.automation-consultants.accloud.approvalmacro\":{\"page-approval-macro-settings-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"maximum\",\"chrome\":false},\"key\":\"page-approval-macro-settings-dialog\"},\"page-history-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"maximum\",\"chrome\":false},\"key\":\"page-history-dialog\"},\"view-comments-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"maximum\",\"chrome\":false},\"key\":\"view-comments-dialog\"},\"byline-settings-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"maximum\",\"chrome\":false},\"key\":\"byline-settings-dialog\"},\"default-settings-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"maximum\",\"chrome\":false},\"key\":\"default-settings-dialog\"}},\"confluence-chats-integration\":{\"dialog\":{\"cacheable\":false,\"options\":{},\"key\":\"dialog\"},\"page-config-dialog\":{\"cacheable\":false,\"options\":{\"height\":\"470px\",\"chrome\":false,\"width\":\"570px\"},\"key\":\"page-config-dialog\"}},\"com.appanvil.aura.designer\":{\"karma-image-dialog\":{\"cacheable\":false,\"options\":{\"height\":\"450px\",\"width\":\"750px\"},\"key\":\"karma-image-dialog\"}}}}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:confluence-macro.property-panel-controls"]="{}";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-feature-discovery-plugin:confluence-feature-discovery-plugin-resources.test-mode"]="false";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link type="text/css" rel="stylesheet" href="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/b1675f4d315f1fc5c5f87cdb5c55e0c2/_/download/contextbatch/css/_super/batch.css?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;relative-url=true" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/ffeb565c8c55532a962d919261d5d5c2/_/download/contextbatch/css/main,atl.general,-_super/batch.css?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;relative-url=true" data-wrm-key="main,atl.general,-_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/84bc6ab2c8837e00edbcf4d7bb0d98b7/_/download/batch/com.atlassian.auiplugin:aui-sidebar/com.atlassian.auiplugin:aui-sidebar.css?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;relative-url=true" data-wrm-key="com.atlassian.auiplugin:aui-sidebar" data-wrm-batch-type="resource" media="all">
+
+    
+    <!-- Dynamically generated colors styles -->
+    
+
+            <!-- Scripts -->
+        <script type="text/javascript" src="//confluence-v1.prod.atl-paas.net/master/vendors/3.6.1-conf-custom-m04.js" data-wrm-external data-wrm-key="com.atlassian.plugins.jquery:jquery" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//confluence-v1.prod.atl-paas.net/master/vendors/3.4.0-migrate-conf-custom-02.js" data-wrm-external data-wrm-key="com.atlassian.plugins.jquery:jquery" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/66f1a33cc86d195c135e7ae44f021d66/_/download/contextbatch/js/_super/batch.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/e3bd57edbe875b4eeff87e194d71cdd3/_/download/contextbatch/js/main,atl.general,-_super/batch.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="main,atl.general,-_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/1a261ff03aa5744ecdd46d639e4b58da/_/download/batch/confluence.web.resources:breadcrumbs/confluence.web.resources:breadcrumbs.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="confluence.web.resources:breadcrumbs" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/9b910618e825861966a7d237c013a62d/_/download/batch/com.atlassian.auiplugin:ajs-raf/com.atlassian.auiplugin:ajs-raf.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__" data-wrm-key="com.atlassian.auiplugin:ajs-raf" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/a7d3b44cfe4dacbb5328828f973eb3d1/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-internal-is-input/com.atlassian.auiplugin:internal-src-js-aui-internal-is-input.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-internal-is-input" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/26c358b2669741f524d5889588724a6a/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-trigger/com.atlassian.auiplugin:internal-src-js-aui-trigger.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-trigger" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/7911f9d9e9b07b0ebd73f8f8b9f17710/_/download/batch/com.atlassian.auiplugin:aui-trigger/com.atlassian.auiplugin:aui-trigger.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:aui-trigger" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/09272644227c343ce325684818a84122/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-internal-attributes/com.atlassian.auiplugin:internal-src-js-aui-internal-attributes.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-internal-attributes" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/116a126c11e45789103315a155ea08ad/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-internal-enforcer/com.atlassian.auiplugin:internal-src-js-aui-internal-enforcer.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-internal-enforcer" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/8dee30925c3f7922069b78af9a3e8c27/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-inline-dialog2/com.atlassian.auiplugin:internal-src-js-aui-inline-dialog2.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-inline-dialog2" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/26762f3eb1de7ac02401939a866e7943/_/download/batch/com.atlassian.auiplugin:aui-inline-dialog2/com.atlassian.auiplugin:aui-inline-dialog2.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:aui-inline-dialog2" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/a66b6e570f802990d61628f6f82504cf/_/download/batch/com.atlassian.auiplugin:internal-src-js-vendor-raf-raf/com.atlassian.auiplugin:internal-src-js-vendor-raf-raf.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-vendor-raf-raf" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/a0bef2738fe8f14d939a3388e2a585d7/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-internal-has-touch/com.atlassian.auiplugin:internal-src-js-aui-internal-has-touch.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-internal-has-touch" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/dea54f6e195706f2e18edf2835f0c1f4/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-internal-mediaQuery/com.atlassian.auiplugin:internal-src-js-aui-internal-mediaQuery.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-internal-mediaQuery" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d1qn2n85k0dly4.cloudfront.net/openfinancebrasil.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/763393508/h/fbdfbb7b46c25a451b42cd17d15f7993/_/download/batch/com.atlassian.auiplugin:internal-src-js-aui-sidebar/com.atlassian.auiplugin:internal-src-js-aui-sidebar.js?assetVersion=1000.0.0-3cc7b53ebd97&amp;externals=__local-default__&amp;locale=pt-BR" data-wrm-key="com.atlassian.auiplugin:internal-src-js-aui-sidebar" data-wrm-batch-type="resource" data-initially-rendered></script>
+
+        
+
+        
+    
+
+    
+
+
+    
+
+    
+    </head>
+    
+
+    
+<body      id="com-atlassian-confluence" class="theme-default   aui-layout aui-theme-default">
+    <script>
+        var __INITIAL_STATE__ = typeof __INITIAL_STATE__ !== 'undefined' ? __INITIAL_STATE__ : { i18n: { locale: 'pt-BR', messages: {} } };
+    </script>
+    <div class="banner-spacer-container"></div>
+    <div style="display:flex;" data-main-container>
+        <div id="ui-global-sidebar-section" slot="navigation" style="z-index: 2"></div>
+        <div style="flex-flow: row wrap; width: 100%" data-flex-container>
+            <div style="flex: 1 100%" data-main-content>
+                
+        
+    
+            </div>
+            
+<!-- START-FRAGMENT standalone-navigation-jquery3.html -->
+
+
+
+<style type="text/css">
+    /* A very basic CSS override to avoid FOUC when loading async styles */
+    body, body.aui-layout { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif; }
+    body { font-size: 14px; margin:0; padding:0; background-color: var(--ds-surface, #fff) }
+    #main, #admin-content, #custom-content-container, .ap-servlet-placeholder { opacity: 0 }
+    a { text-decoration: none; }
+    h1 { font-weight: normal; }
+</style>
+<!-- END-FRAGMENT standalone-navigation-jquery3.html -->
+    <div id="header-precursor">
+        <div class="cell">
+            
+                            </div>
+    </div>
+
+        
+                        
+    <!-- \#header -->
+
+            
+                
+        <main id="main" class=" aui-page-panel ">
+                <div class="connect-theme-background-cover"></div>
+                                                <div id="main-header">
+                                        
+                    
+                    <div id="title-heading" class="pagetitle with-breadcrumbs">
+                        
+                                                    <div id="breadcrumb-section">
+                                
+    
+    
+    <ol id="breadcrumbs">
+                        </ol>
+
+
+                            </div>
+                        
+                        
+
+                        <h1 id="title-text" class="with-breadcrumbs">
+                                                                Arquivo anexado não encontrado
+                                                    </h1>
+                    </div>
+                </div><!-- \#main-header -->
+            
+                            
+                        
+
+        
+
+
+
+
+    <div id="content" style="margin:10px;">
+
+        <p>
+            O anexo que você estava tentando baixar não foi encontrado no armazenamento do arquivo do anexo. O arquivo foi excluído manualmente ou houve um erro ao remover o registro do anexo do Confluence.
+        </p>
+        <p>
+            Se este anexo já não for necessário pode eliminá-lo da Wiki na página dos anexos. Caso ainda seja necessário tem que anexar uma nova cópia.
+        </p>
+        <p>
+            &lt;&lt; <a href="/wiki/pages/viewpageattachments.action?pageId=154731139">Voltar para a página anexos</a>
+        </p>
+
+    </div>
+
+
+                        </main>
+    <!-- \#main -->
+            
+    
+    
+            
+            
+            <div class="ap-container" id="ap-de.resolution.cloud.analytics.google__google-analytics-panel">
+
+  <div class="ap-content " id="embedded-de.resolution.cloud.analytics.google__google-analytics-panel"></div>
+  <script class="ap-iframe-body-script">
+  (function(){
+    var data = {
+    "addon_key":"de.resolution.cloud.analytics.google",
+    "uniqueKey":"de.resolution.cloud.analytics.google__google-analytics-panel",
+    "key":"google-analytics-panel",
+     "moduleType":"webPanels",      "moduleLocation":"atl.footer",      "title":"Google Analytics Panel",     "cp":"/wiki",
+            "general":"",
+    "w":"0",
+    "h":"0",
+    "url":"https://embed-c-google-analytics.resolution-cloud.com/include.html?xdm_e=https%3A%2F%2Fopenfinancebrasil.atlassian.net&xdm_c=channel-de.resolution.cloud.analytics.google__google-analytics-panel&cp=%2Fwiki&xdm_deprecated_addon_key_do_not_use=de.resolution.cloud.analytics.google&lic=active&cv=1000.0.0-3cc7b53ebd97&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxc2giOiJiNjFjZTRhMjkzYWMyNDk4OGM4OGUzMDk3MDRmMmZiZDE5ODU3NTY5NWJlMThlYjQ1NzVhZTQ2NTY5NDQ5ODFiIiwiaXNzIjoiNzEzN2NhNjEtMGM5ZC0zMDNiLTk5ZjgtYzA2YjU4YmMxYTQxIiwiY29udGV4dCI6e30sImV4cCI6MTcwNTk3ODU2NSwiaWF0IjoxNzA1OTc4Mzg1fQ.8wrmdER7zGSfMLNplrdteFmxEZF9xXE_eRwmsG3hnpw",
+     "contextJwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxc2giOiJjb250ZXh0LXFzaCIsImlzcyI6IjcxMzdjYTYxLTBjOWQtMzAzYi05OWY4LWMwNmI1OGJjMWE0MSIsImNvbnRleHQiOnsibGljZW5zZSI6eyJhY3RpdmUiOnRydWV9fSwiZXhwIjoxNzA1OTc5Mjg1LCJpYXQiOjE3MDU5NzgzODV9._oYqLokxR2CPOB5GYV65PDcK7nZ6nZFrwZUdFRkLniM",    "structuredContext": "{\"license\":{\"active\":true}}",
+    "contentClassifier":"",
+    "productCtx":"{\"user.isExternalCollaborator\":\"false\"}",
+    "timeZone":"GMT",
+    "origin":"https://embed-c-google-analytics.resolution-cloud.com",
+    "hostOrigin":"https://openfinancebrasil.atlassian.net",
+    "sandbox":"allow-downloads allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-scripts allow-same-origin allow-top-navigation-by-user-activation allow-storage-access-by-user-activation",    "pearApp":"true",        "apiMigrations": {
+        "gdpr": true
+    }
+}
+;
+    if(window.AP && window.AP.subCreate) {
+      window._AP.appendConnectAddon(data);
+    } else {
+      require(['ac/create'], function(create){
+        create.appendConnectAddon(data);
+      });
+    }
+
+    // For Confluence App Analytics. This code works in conjunction with CFE's ConnectSupport.js.
+    // Here, we add a listener to the initial HTML page that stores events if the ConnectSupport component
+    // has not mounted yet. In CFE, we process the missed event data and disable this initial listener.
+    const __MAX_EVENT_ARRAY_SIZE__ = 20;
+    const connectAppAnalytics = "ecosystem.confluence.connect.analytics";
+    window.connectHost && window.connectHost.onIframeEstablished((eventData) => {
+      if (!window.__CONFLUENCE_CONNECT_SUPPORT_LOADED__) {
+        let events = JSON.parse(window.localStorage.getItem(connectAppAnalytics)) || [];
+        if (events.length >= __MAX_EVENT_ARRAY_SIZE__) {
+          events.shift();
+        }
+        events.push(eventData);
+        window.localStorage.setItem(connectAppAnalytics, JSON.stringify(events));
+      }
+    });
+
+  }());
+</script>
+
+</div>
+
+    
+    
+    </div><!-- flex-flow: row wrap -->
+    </div><!-- display: flex -->
+
+    <span style="display:none;" id="confluence-server-performance">{"serverDuration": 77, "requestCorrelationId": "2a67d1c51be54640983c795655178569"}</span>
+</body>
+</html>
+    

@@ -1,0 +1,4 @@
+﻿data,,,,,,,,,,,,,,links,,,,,meta,,
+updateDateTime,startDate,productsServicesType,productsServicesTypeAdditionalInfo,procurators,,,,accounts,,,,,,self,first,prev,next,last,totalRecords,totalPages,requestDateTime
+,,,,type,cpfNumber,civilName,socialName,compeCode,branchCode,number,checkDigit,type,subtype,,,,,,,,
+2021-05-21T08:30:00Z,2021-05-21T08:30:00Z,SEGURO,Informações adicionais do tipo de serviço.,PROCURADOR,73677831148,Elza Milena Stefany Teixeira,Carlos,001,6272,24550245,4,CONTA_DEPOSITO_A_VISTA,INDIVIDUAL,https://api.banco.com.br/open-banking/api/v1/resource,https://api.banco.com.br/open-banking/api/v1/resource,https://api.banco.com.br/open-banking/api/v1/resource,https://api.banco.com.br/open-banking/api/v1/resource,https://api.banco.com.br/open-banking/api/v1/resource,1,1,2021-05-21T08:30:00Z

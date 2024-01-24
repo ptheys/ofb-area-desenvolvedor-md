@@ -1,0 +1,14 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/240648449)
+
+Este guia visa fornecer às instituições transmissoras de dados e/ou instituições receptoras de dados ou iniciadoras de pagamento o passo a passo para implementação de aplicações de acordo com o framework do [Open Finance Brasil](https://openfinancebrasil.org.br/). 
+
+- [v1.0 - Guia do usuário](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/index)
+    - [Instituição transmissora](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20transmissora/index)
+        - [\[PT\] Guia do Usuário para Entidades Transmissoras de Dados (ASPSP)](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20transmissora/[PT]%20Guia%20do%20Usu%c3%a1rio%20para%20Entidades%20Transmissoras%20de%20Dados%20%28ASPSP%29)
+        - [\[EN\] Guia do Usuário para Entidades Transmissoras de Dados (ASPSP)](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20transmissora/[EN]%20Guia%20do%20Usu%c3%a1rio%20para%20Entidades%20Transmissoras%20de%20Dados%20%28ASPSP%29)
+    - [Instituição receptora ou iniciadora de pagamentos](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20receptora%20ou%20iniciadora%20de%20pagamentos/index)
+        - [\[PT\] Guia do Usuário para Instituições Receptores de Dados e Iniciadores de Pagamento (TTP/PISP)](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20receptora%20ou%20iniciadora%20de%20pagamentos/[PT]%20Guia%20do%20Usu%c3%a1rio%20para%20Institui%c3%a7%c3%b5es%20Receptores%20de%20Dados%20e%20Iniciadores%20de%20Pagamento%20%28TTP_PISP%29)
+        - [\[EN\] Guia do Usuário para Instituições Receptores de Dados e Iniciadores de Pagamento (TTP/PISP)](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/v1.0%20-%20Guia%20do%20usu%c3%a1rio/Institui%c3%a7%c3%a3o%20receptora%20ou%20iniciadora%20de%20pagamentos/[EN]%20Guia%20do%20Usu%c3%a1rio%20para%20Institui%c3%a7%c3%b5es%20Receptores%20de%20Dados%20e%20Iniciadores%20de%20Pagamento%20%28TTP_PISP%29)
+- [Histórico da página - Guia do Usuário](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/Hist%c3%b3rico%20da%20p%c3%a1gina%20-%20Guia%20do%20Usu%c3%a1rio)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/240648449)

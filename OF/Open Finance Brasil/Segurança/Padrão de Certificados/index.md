@@ -1,0 +1,11 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/240649793)
+
+- [v2.0 - Padrão de Certificados](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/v2.0%20-%20Padr%c3%a3o%20de%20Certificados/index)
+    - [\[PT\] Padrão de Certificados Open Finance Brasil 2.1](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/v2.0%20-%20Padr%c3%a3o%20de%20Certificados/[PT]%20Padr%c3%a3o%20de%20Certificados%20Open%20Finance%20Brasil%202.1)
+    - [\[EN\] Padrão de Certificados Open Finance Brasil 2.1](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/v2.0%20-%20Padr%c3%a3o%20de%20Certificados/[EN]%20Padr%c3%a3o%20de%20Certificados%20Open%20Finance%20Brasil%202.1)
+- [Histórico da página - Padrão de Certificados](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/Hist%c3%b3rico%20da%20p%c3%a1gina%20-%20Padr%c3%a3o%20de%20Certificados/index)
+    - [v1.0 Padrão de Certificados](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/Hist%c3%b3rico%20da%20p%c3%a1gina%20-%20Padr%c3%a3o%20de%20Certificados/v1.0%20Padr%c3%a3o%20de%20Certificados/index)
+        - [\[PT\] Padrão de Certificados Open Finance Brasil 2.0](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/Hist%c3%b3rico%20da%20p%c3%a1gina%20-%20Padr%c3%a3o%20de%20Certificados/v1.0%20Padr%c3%a3o%20de%20Certificados/[PT]%20Padr%c3%a3o%20de%20Certificados%20Open%20Finance%20Brasil%202.0)
+        - [\[EN\] Padrão de Certificados Open Finance Brasil 2.0](../../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/Hist%c3%b3rico%20da%20p%c3%a1gina%20-%20Padr%c3%a3o%20de%20Certificados/v1.0%20Padr%c3%a3o%20de%20Certificados/[EN]%20Padr%c3%a3o%20de%20Certificados%20Open%20Finance%20Brasil%202.0)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/240649793)

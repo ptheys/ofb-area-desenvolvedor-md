@@ -1,0 +1,9 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/264176019)
+
+**A implementação e certificação do Pix Automático está pausada no momento. O produto Transferência Inteligentes (Sweeping Accounts) continua disponível para implementação e certificação.**
+
+- [Informações Gerais - \[SV\] Pagamentos Automáticos - v1.0.0-rc.1](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/[SV]%20API%20-%20Pagamentos%20Autom%c3%a1ticos/v1.0.0-rc.1%20%e2%80%93%20[SV]%20Pagamentos%20Autom%c3%a1ticos/Informa%c3%a7%c3%b5es%20Gerais%20-%20[SV]%20Pagamentos%20Autom%c3%a1ticos%20-%20v1.0.0-rc.1/index)
+- [Informações Técnicas - \[SV\] Pagamentos Automáticos - v1.0.0-rc.1](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/[SV]%20API%20-%20Pagamentos%20Autom%c3%a1ticos/v1.0.0-rc.1%20%e2%80%93%20[SV]%20Pagamentos%20Autom%c3%a1ticos/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20[SV]%20Pagamentos%20Autom%c3%a1ticos%20-%20v1.0.0-rc.1)
+- [Changelog - Pagamentos Automáticos - v1.0.0-rc.1](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/[SV]%20API%20-%20Pagamentos%20Autom%c3%a1ticos/v1.0.0-rc.1%20%e2%80%93%20[SV]%20Pagamentos%20Autom%c3%a1ticos/Changelog%20-%20Pagamentos%20Autom%c3%a1ticos%20-%20v1.0.0-rc.1)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/264176019)

@@ -1,0 +1,7 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/207716919)
+
+- [Informações Gerais - \[DC\] Empréstimos - v2.1.0](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Opera%c3%a7%c3%b5es%20de%20Cr%c3%a9dito%20-%20%20Empr%c3%a9stimos/v2.1.0%20-%20[DC]%20Empr%c3%a9stimos/Informa%c3%a7%c3%b5es%20Gerais%20-%20[DC]%20Empr%c3%a9stimos%20-%20v2.1.0)
+- [Informações Técnicas - \[DC\] Empréstimos - v2.1.0](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Opera%c3%a7%c3%b5es%20de%20Cr%c3%a9dito%20-%20%20Empr%c3%a9stimos/v2.1.0%20-%20[DC]%20Empr%c3%a9stimos/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20[DC]%20Empr%c3%a9stimos%20-%20v2.1.0)
+- [Changelog - \[DC\] Empréstimos - v2.1.0](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Opera%c3%a7%c3%b5es%20de%20Cr%c3%a9dito%20-%20%20Empr%c3%a9stimos/v2.1.0%20-%20[DC]%20Empr%c3%a9stimos/Changelog%20-%20[DC]%20Empr%c3%a9stimos%20-%20v2.1.0)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/207716919)

@@ -1,0 +1,9 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17370371)
+
+- [v1.0.0 - Dados Cadastrais](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Dados%20Cadastrais/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Dados%20Cadastrais/v1.0.0%20-%20Dados%20Cadastrais/index)
+- [v1.0.1 - Dados Cadastrais](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Dados%20Cadastrais/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Dados%20Cadastrais/v1.0.1%20-%20Dados%20Cadastrais/index)
+- [v1.0.2 - Dados Cadastrais](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Dados%20Cadastrais/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Dados%20Cadastrais/v1.0.2%20-%20Dados%20Cadastrais/index)
+- [v1.0.3 - Dados Cadastrais](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Dados%20Cadastrais/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Dados%20Cadastrais/v1.0.3%20-%20Dados%20Cadastrais/index)
+- [v2.0.0 - Dados Cadastrais](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Dados%20Cadastrais/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20[DC]%20Dados%20Cadastrais/v2.0.0%20-%20Dados%20Cadastrais/index)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17370371)

@@ -1,0 +1,6 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/213516312)
+
+[\[PT\] Open Banking Brasil Financial-grade CIBA API Security Profile 1.0 Implementers Draft 3](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/CIBA%20-%20Fluxo%20Desacoplado/Especifica%c3%a7%c3%a3o/[PT]%20Open%20Banking%20Brasil%20Financial-grade%20CIBA%20API%20Security%20Profile%201.0%20Implementers%20Draft%203)   
+[\[EN\] Open Banking Brasil Financial-grade CIBA API Security Profile 1.0 Implementers Draft 3](../../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Servi%c3%a7os%20-%20SV/[SV]%20Inicia%c3%a7%c3%a3o%20de%20Pagamentos/CIBA%20-%20Fluxo%20Desacoplado/Especifica%c3%a7%c3%a3o/[EN]%20Open%20Banking%20Brasil%20Financial-grade%20CIBA%20API%20Security%20Profile%201.0%20Implementers%20Draft%203)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/213516312)
