@@ -5,7 +5,7 @@
 - [Guia do Usuário](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Guia%20do%20Usu%c3%a1rio/index)
 - [Perfil de Segurança do Open Finance Brasil](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Perfil%20de%20Seguran%c3%a7a%20do%20Open%20Finance%20Brasil/index)
 - [Dynamic Client Registration](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Dynamic%20Client%20Registration/index)
-- [Padrão de Certificados](/wiki/spaces/OF/pages/240649793)
+- [Padrão de Certificados](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Padr%c3%a3o%20de%20Certificados/index)
 - [Assinaturas](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Assinaturas/index)
 - [Casos de Erro](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Casos%20de%20Erro/index)
 - [Redirecionamento App-to-App](../../../OF/Open%20Finance%20Brasil/Seguran%c3%a7a/Redirecionamento%20App-to-App/index)
