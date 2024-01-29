@@ -186,7 +186,7 @@ The following table describes the regulatory roles for Open Finance and the rela
 | **Regulatory Role** | **Description** | **Allowed Scopes** | **Target Phase** |
 | --- | --- | --- | --- |
 | DADOS | Instituição transmissora ou receptora de dados (AISP) | openid<br><br>accounts<br><br>credit-cards-accounts<br><br>consents<br><br>customers<br><br>invoice-financings<br><br>financings<br><br>loans<br><br>unarranged-accounts-overdraft<br><br>resources<br><br>credit-fixed-incomes<br><br>exchanges<br><br>bank-fixed-incomes<br><br>variable-incomes<br><br>treasure-titles<br><br>funds | Phase 2 and Phase 4 |
-| PAGTO | Instituição prestadora de serviço de iniciação de pagamentos (PISP) | openid<br><br>payments<br><br>recurringPayments | Phase 3 |
+| PAGTO | Instituição prestadora de serviço de iniciação de pagamentos (PISP) | openid<br><br>payments<br><br>recurring-payments | Phase 3 |
 | CONTA | Instituição detentora de conta (ASPSP) | openid | Phase 3 |
 | CCORR | Correspondente de crédito | openid | Phase 3\* |
 

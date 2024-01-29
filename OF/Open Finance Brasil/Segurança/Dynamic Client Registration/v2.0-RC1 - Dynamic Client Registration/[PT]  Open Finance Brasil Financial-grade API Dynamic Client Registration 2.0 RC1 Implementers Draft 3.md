@@ -195,7 +195,7 @@ A tabela a seguir descreve as funções regulatórias do Open Finance e o mapeam
 | **Papel Regulador** | **Descrição** | **Escopos Permitidos** | **Fase-alvo** |
 | --- | --- | --- | --- |
 | DADOS | Instituição transmissora / receptora de dados (AISP) | openid<br><br>accounts<br><br>credit-cards-accounts<br><br>consents<br><br>customers<br><br>invoice-financings<br><br>financings<br><br>loans<br><br>unarranged-accounts-overdraft<br><br>resources<br><br>credit-fixed-incomes<br><br>exchanges<br><br>bank-fixed-incomes<br><br>variable-incomes<br><br>treasure-titles<br><br>funds | Fase 2 e Fase 4 |
-| PAGTO | Instituição prestadora de serviço de iniciação de pagamentos (PISP) | openid<br><br>payments<br><br>recurringPayments | Fase 3 |
+| PAGTO | Instituição prestadora de serviço de iniciação de pagamentos (PISP) | openid<br><br>payments<br><br>recurring-payments | Fase 3 |
 | CONTA | Instituição detentora de conta (ASPSP) | openid | Fase 3 |
 | CCORR | Correspondente de crédito | openid | Fase 3\* |
 
