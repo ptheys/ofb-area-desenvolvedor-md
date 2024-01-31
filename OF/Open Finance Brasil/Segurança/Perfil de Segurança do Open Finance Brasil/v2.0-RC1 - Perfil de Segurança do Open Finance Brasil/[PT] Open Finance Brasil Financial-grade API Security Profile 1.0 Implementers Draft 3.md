@@ -344,8 +344,8 @@ Além dos requisitos descritos nas disposições de segurança do Open Finance B
 7. deve manter registros sobre o histórico dos consentimento para permitir a adequada formação de trilhas de auditoria em conformidade com a regulação em vigor;
 8. deve retornar falha na autenticação e o código de retorno \_accessdenied no parâmetro erro (como especificado na seção 4.1.2.1 da [RFC6749](https://tools.ietf.org/html/rfc6749)) caso o CPF do usuário autenticado não seja o mesmo indicado no elemento loggedUser do Consentimento (Consent Resource Object);
 9. deve retornar falha na autenticação e o código de retorno \_accessdenied no parâmetro erro (como especificado na seção 4.1.2.1 da [RFC6749](https://tools.ietf.org/html/rfc6749)) caso o elemento businessEntity não tenha sido preenchido no Consentimento (Consent Resource Object) relacionado e o usuário tenha selecionado ou se autenticado por meio de credencial relacionada à conta do tipo Pessoa Jurídica (PJ);
-10. deve condicionar a autenticação ou seleção de contas do tipo PJ à consistência entre o CNPJ relacionado à(s) conta(s) e o valor presente no elemento businessEntity do Consentimento (Consent Resource Object). Em caso de divergência deve retornar falha na autenticação e o código de retorno \_accessdenied no parâmetro erro (como especificado na seção 4.1.2.1 da [RFC6749](https://tools.ietf.org/html/rfc6749));
-11. deve emitir \_refresh*token* com validade não inferior à validade do consentimento ao qual está relacionado, respeitado os demais critérios acima.
+10. deve condicionar a autenticação ou seleção de contas do tipo PJ à consistência entre o CNPJ relacionado à(s) conta(s) e o valor presente no elemento businessEntity do Consentimento (Consent Resource Object). Em caso de divergência deve retornar falha na autenticação e o código de retorno *access\_denied *no parâmetro erro (como especificado na seção 4.1.2.1 da [RFC6749](https://tools.ietf.org/html/rfc6749));
+11. deve emitir *refresh\_token* com validade não inferior à validade do consentimento ao qual está relacionado, respeitado os demais critérios acima.
 
 #### 7.2.3. Cliente confidencial
 

@@ -1,0 +1,8 @@
+endpoint;path;field;description;changeType;oldValue;currentValue
+"consents/{consentId}/extensions/";"get/parameters";"page";"Adicionado - ""page""";"Adição";"";""
+"consents/{consentId}/extensions/";"get/parameters";"page-size";"Adicionado - ""page-size""";"Adição";"";""
+"consents/{consentId}/extensions/";"get/responses/200/meta/properties";"totalPages";"Adicionado obrigatóriedade no campo 'totalPages'";"Adição";"";"required"
+"consents/{consentId}/extensions/";"get/responses/200/meta/properties";"totalPages";"Adicionado - ""totalPages""";"Adição";"";""
+"consents/{consentId}/extensions/";"get/responses/200/meta/properties";"totalRecords";"Adicionado obrigatóriedade no campo 'totalRecords'";"Adição";"";"required"
+"consents/{consentId}/extensions/";"get/responses/200/meta/properties";"totalRecords";"Adicionado - ""totalRecords""";"Adição";"";""
+"info";"";"version";"Alterado - ""version""";"Alteração";"3.0.0-beta.3";"3.0.0-rc.1"

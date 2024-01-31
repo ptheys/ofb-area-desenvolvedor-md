@@ -66,7 +66,7 @@ O recurso compartilhado pode se encontrar em diferentes estados na API Recursos,
 - PENDING\_AUTHORISATION: status indicado para recursos que fazem parte do consentimento, porém ainda estão pendentes de alçada(s) de aprovação
 
 A máquina de estados possíveis encontra-se abaixo:
-![att219512950](Orienta%c3%a7%c3%b5es%20-%20[DC]%20Recursos/attachments/maquinaEstadoResources_v3.png)
+![](https://openfinancebrasil.atlassian.net/wiki/download/thumbnails/219512943/maquinaEstadoResources_v3.png?version=3&amp;modificationDate=1706728632706&amp;cacheVersion=1&amp;api=v2&amp;width=900&amp;height=423)
 As transições de estados possíveis conforme a imagem acima:
 
 - PENDING\_AUTHORISATION é um status apenas inicial e não deve ser alcançado a partir dos demais status.
@@ -81,6 +81,8 @@ Abaixo alguns exemplos de casos de uso de recursos (considerando consentimento a
 - Recursos que se encontram em **bloqueios temporários**, quando o cliente não possui acesso ao recurso por meio dos canais de atendimento eletrônico, devem retornar o status TEMPORARILY\_UNAVAILABLE;
 - Recursos que se encontram em **bloqueios definitivos**, quando o cliente não possui acesso ao recurso por meio dos canais de atendimento eletrônico, devem retornar o status UNAVAILABLE;
 - Recursos que se encontram **encerrados**, quando o cliente não possui acesso ao recurso por meio dos canais de atendimento eletrônico, devem retorna o status UNAVAILABLE;
+- Recursos que foram migrados e se encontram indisponíveis nos canais de atendimento eletrônico devem retornar o status UNAVAILABLE;
+- Recursos em status UNAVAILABLE por mais de 3 meses podem ser expurgados da base da transmissora e não necessita retornar como status UNAVAILABLE em futuras requisições ao endpoint /resources;
 - Casos de uso que um cliente final efetue um consentimento para mais de um recurso e um deles exija a aprovação de **múltiplas alçadas** (PENDING\_AUTHORISATION) e o outro esteja **disponível para consulta** (AVAILABLE, o comportamento esperado é que cada recurso tenha seu status representado de forma independente.
 
 Importante notar que os casos de uso descritos não são exaustivos, e de acordo com a especificidade das APIs de produtos as regras podem ser complementadas. é recomendada a leitura complementar das regras aplicáveis a cada API de produto.

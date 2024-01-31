@@ -338,8 +338,8 @@ In addition to the requirements outlined in Open Finance Brasil security provisi
 7. shall retain a complete audit history of the consent resource in accordance with current Central Bank brazilian regulation;
 8. shall return authentication failure and return code \_accessdenied in the error parameter (as specified in section 4.1.2.1 of [RFC6749](https://tools.ietf.org/html/rfc6749)) if the CPF of the authenticated user is not the same as indicated in the loggedUser element of the Consent Resource Object;
 9. shall return authentication failure and return code \_accessdenied in the error parameter (as specified in section 4.1.2.1 of [RFC6749](https://tools.ietf.org/html/rfc6749)) if the businessEntity element has not been populated in the related Consent Resource Object and the user has selected or authenticated by using a credential related to a business account;
-10. an autenticated or selected business account's CNPJ must match the value present in the businessEntity element of the Consent Resource Object. In case of divergence authorization server shall return authentication failure and return code \_accessdenied in the error parameter (as specified in section 4.1.2.1 of [RFC6749](https://tools.ietf.org/html/rfc6749));
-11. shall ensure \_refreshtokens expiration time is at least equal to the linked consent resource expiration time.
+10. an autenticated or selected business account's CNPJ must match the value present in the businessEntity element of the Consent Resource Object. In case of divergence authorization server shall return authentication failure and return code *access\_denied* in the error parameter (as specified in section 4.1.2.1 of [RFC6749](https://tools.ietf.org/html/rfc6749));
+11. shall ensure *refresh\_token* expiration time is at least equal to the linked consent resource expiration time.
 
 #### Confidential Client
 

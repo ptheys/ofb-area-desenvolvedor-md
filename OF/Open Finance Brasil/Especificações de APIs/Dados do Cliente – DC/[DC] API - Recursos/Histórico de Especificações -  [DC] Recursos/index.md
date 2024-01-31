@@ -7,5 +7,6 @@
 - [v2.1.0-rc1.0 - Resources](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20[DC]%20Recursos/v2.1.0-rc1.0%20-%20Resources/index)
 - [v3.0.0-beta.1 - \[DC\] Recursos](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20[DC]%20Recursos/v3.0.0-beta.1%20-%20[DC]%20Recursos/index)
 - [v3.0.0-beta.2 - \[DC\] Recursos](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20[DC]%20Recursos/v3.0.0-beta.2%20-%20[DC]%20Recursos/index)
+- [v3.0.0-beta.3 - \[DC\] Recursos](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/Hist%c3%b3rico%20de%20Especifica%c3%a7%c3%b5es%20-%20%20[DC]%20Recursos/v3.0.0-beta.3%20-%20[DC]%20Recursos/index)
 
 [Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17369798)

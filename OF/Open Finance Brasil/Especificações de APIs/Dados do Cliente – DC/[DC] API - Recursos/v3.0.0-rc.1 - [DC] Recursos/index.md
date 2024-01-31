@@ -1,0 +1,8 @@
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/277381121)
+
+- [Informações Gerais - \[DC\] Recursos - v3.0.0-rc.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/v3.0.0-rc.1%20-%20[DC]%20Recursos/Informa%c3%a7%c3%b5es%20Gerais%20-%20[DC]%20Recursos%20-%20v3.0.0-rc.1)
+- [Informações Técnicas - \[DC\] Recursos - v3.0.0-rc.1](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/v3.0.0-rc.1%20-%20[DC]%20Recursos/Informa%c3%a7%c3%b5es%20T%c3%a9cnicas%20-%20[DC]%20Recursos%20-%20v3.0.0-rc.1)
+- [Changelog - \[DC\] Recursos - v3.0.0-rc.1 - v3.0.0-beta.3](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/v3.0.0-rc.1%20-%20[DC]%20Recursos/Changelog%20-%20[DC]%20Recursos%20-%20v3.0.0-rc.1%20-%20v3.0.0-beta.3)
+- [Changelog - \[DC\] Recursos - v3.0.0-rc.1 - v2.1.0](../../../../../../OF/Open%20Finance%20Brasil/Especifica%c3%a7%c3%b5es%20de%20APIs/Dados%20do%20Cliente%20%e2%80%93%20DC/[DC]%20API%20-%20Recursos/v3.0.0-rc.1%20-%20[DC]%20Recursos/Changelog%20-%20[DC]%20Recursos%20-%20v3.0.0-rc.1%20-%20v2.1.0)
+
+[Link para página original no Confluence](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/277381121)
