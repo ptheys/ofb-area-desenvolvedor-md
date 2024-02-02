@@ -66,7 +66,7 @@ O recurso compartilhado pode se encontrar em diferentes estados na API Recursos,
 - PENDING\_AUTHORISATION: status indicado para recursos que fazem parte do consentimento, porém ainda estão pendentes de alçada(s) de aprovação
 
 A máquina de estados possíveis encontra-se abaixo:
-![](https://openfinancebrasil.atlassian.net/wiki/download/thumbnails/219512943/maquinaEstadoResources_v3.png?version=3&amp;modificationDate=1706728632706&amp;cacheVersion=1&amp;api=v2&amp;width=900&amp;height=423)
+![att219512950](Orienta%c3%a7%c3%b5es%20-%20[DC]%20Recursos/attachments/maquinaEstadoResources_v3.png)
 As transições de estados possíveis conforme a imagem acima:
 
 - PENDING\_AUTHORISATION é um status apenas inicial e não deve ser alcançado a partir dos demais status.
