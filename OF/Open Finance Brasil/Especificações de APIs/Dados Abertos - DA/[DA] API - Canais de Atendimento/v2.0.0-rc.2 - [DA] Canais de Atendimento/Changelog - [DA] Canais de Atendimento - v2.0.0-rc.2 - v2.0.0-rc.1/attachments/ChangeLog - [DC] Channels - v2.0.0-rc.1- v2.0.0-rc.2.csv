@@ -1,0 +1,7 @@
+endpoint;path;description;changeType;oldValue;currentValue
+"/banking-agents/";"get/responses/200/data";"Removido - ""description""";"Remoção";"Conjunto de informações referente aos correspondentes bancários da Instituição";""
+"/banking-agents/";"get/responses/200/data";"Alterado - ""type""";"Alteração";"object";"array"
+"/banking-agents/";"get/responses/200/data";"Removido - ""properties""";"Remoção";"";""
+"/banking-agents/";"get/responses/200/data";"Adicionado - ""items""";"Adição";"";""
+"/banking-agents/";"get/responses/200/data";"Adicionado - ""minItems""";"Adição";"";"1"
+"Alterações realizadas fora do endpoint";"/info";"Alterado - ""version""";"Alteração";"2.0.0-rc.1";"2.0.0-rc.2"
